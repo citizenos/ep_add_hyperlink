@@ -1,10 +1,10 @@
 {
   "name": "ep_add_hyperlink",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Plugin to add and export hyperlinks",
   "author": {
     "name": "ilmar.tyrk (Ilmar Türk)",
-    "email":  "<ilmar.tyrk@gmail.com>"
+    "email": "<ilmar.tyrk@gmail.com>"
   },
   "keywords": [
     "etherpad",
@@ -35,7 +35,7 @@
     "eslint-plugin-promise": "^5.1.0",
     "eslint-plugin-you-dont-need-lodash-underscore": "^6.10.0"
   },
-    "eslintConfig": {
+  "eslintConfig": {
     "root": true,
     "extends": "etherpad/plugin"
   },
